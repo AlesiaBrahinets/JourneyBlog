@@ -7,6 +7,7 @@ PUT - "{BaseURL}/journeys/{id}",
 GET (all records) -"{BaseURL}/journeys",
 GET (specific record) -"{BaseURL}/journeys/{id}",
 DELETE - "{BaseURL}/journeys/{id}",
+DELETE (all records) - "{BaseURL}/journeys"
 
 Request body examples:
  - for POST:
