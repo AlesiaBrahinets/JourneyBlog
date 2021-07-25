@@ -32,6 +32,7 @@ Request body examples:
     }
    }
 
+Checking the correct execution of CRUD methods working with the database using unit and integration tests.
 
 Technologies used during the development:
 - JAVA;
@@ -42,3 +43,4 @@ Technologies used during the development:
 - REST;
 - Lombook plugin(needs to be installed in your IDE, otherwise you will not be able to manipulate user Entity object);
 - Tomcat;
+- JUnit;
